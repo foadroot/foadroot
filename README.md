@@ -40,31 +40,16 @@ More projects & case studies → [foad-portfolio.vercel.app](https://foad-portfo
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foadroot&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foadroot&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=foadroot&theme=tokyonight&hide_border=true&fire=38bdf8&ring=38bdf8" alt="GitHub Streak" width="92%"/>
 </p>
 
-<details open>
-<summary><b>Snake eats my contributions</b></summary>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=foadroot&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Contribution activity" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://github.com/foadroot/foadroot/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="85%"/>
 </p>
-
-</details>
-
-<details>
-<summary><b>🏆 Trophies</b></summary>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=foadroot&theme=tokyonight&no-frame=true&column=4&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
-</p>
-
-</details>
 
 ---
 
