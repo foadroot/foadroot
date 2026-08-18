@@ -1,41 +1,28 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=foadroot&style=flat-square&color=38bdf8&label=profile+views" alt="Profile views" />
-</p>
-
-<h1 align="center">Fuad</h1>
-
-<p align="center">
-  <b>Full-Stack Developer</b> · MERN & Next.js<br/>
-  Clean code, thoughtful design, and products that actually work.
+  <img src="header.svg" alt="FOAD — Full-Stack Developer" width="100%"/>
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=foadroot&style=flat-square&color=38bdf8&label=profile+views" alt="Profile views"/>
   <a href="https://foad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-foad--portfolio.vercel.app-38bdf8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
 
-### About
+## About
 
 - Building full-stack apps with **React, Next.js, Node.js, Express & MongoDB**
 - Learning **TypeScript, REST APIs & Mongoose** right now
 - Open to opportunities where I can grow and prove myself
 - Started coding for a certificate — it became my life
 
----
+## Skills
 
-### Skills
+| Frontend | Backend | Languages | Tooling |
+|---|---|---|---|
+| Next.js · React · TypeScript · JavaScript · Tailwind CSS · Bootstrap · Material UI | Node.js · Express · MongoDB · Mongoose · MySQL · Strapi · Sanity · Socket.io | C · C++ · Python · Java · Assembly | Git · GitHub Actions · Firebase · Vercel · Netlify · Render · Postman · Docker |
 
-```
-Frontend   Next.js · React · TypeScript · JavaScript · Tailwind CSS · Bootstrap · Material UI
-Backend    Node.js · Express · MongoDB · Mongoose · MySQL · Strapi · Sanity · Socket.io
-Languages  C · C++ · Python · Java · Assembly
-Tooling    Git · GitHub Actions · Firebase · Vercel · Netlify · Render · Postman · Docker
-```
-
----
-
-### Selected Work
+## Selected Work
 
 | Project | What it does |
 |---|---|
@@ -46,45 +33,42 @@ Tooling    Git · GitHub Actions · Firebase · Vercel · Netlify · Render · P
 | **PDF OCR** | Full-stack OCR pipeline for scanned PDFs |
 | **Bangladesh Forgotten Files** | Digital archive for forgotten Bangladesh records |
 
-> More projects & case studies: [foad-portfolio.vercel.app](https://foad-portfolio.vercel.app/)
+More projects & case studies → [foad-portfolio.vercel.app](https://foad-portfolio.vercel.app/)
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foadroot&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foadroot&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=foadroot&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foadroot&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=foadroot&theme=tokyonight&hide_border=true&fire=38bdf8&ring=38bdf8" alt="Streak" width="92%"/>
+  <img src="https://streak-stats.demolab.com?user=foadroot&theme=tokyonight&hide_border=true&fire=38bdf8&ring=38bdf8" alt="GitHub Streak" width="92%"/>
 </p>
+
+<details open>
+<summary><b>Snake eats my contributions</b></summary>
+
+<p align="center">
+  <img src="https://github.com/foadroot/foadroot/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="85%"/>
+</p>
+
+</details>
 
 <details>
-<summary><b>More stats</b></summary>
+<summary><b>🏆 Trophies</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=foadroot&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=foadroot&theme=tokyonight&no-frame=true&column=4&margin-w=12&margin-h=12" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=foadroot&theme=tokyonight&no-frame=true&column=4&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
 </p>
 
 </details>
 
 ---
 
-### Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/foadroot/foadroot/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" width="80%"/>
-</p>
-
----
-
-### Connect
+## Connect
 
 <p align="center">
   <a href="https://github.com/foadroot"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
