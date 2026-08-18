@@ -1,189 +1,152 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=foadroot&&style=flat-square" align="center" />
+
+<img src="https://komarev.com/ghpvc/?username=foadroot&style=flat-square&color=1d4ed8" alt="Profile views" />
+
+# 👋 Hello, I'm Fuad
+
+### Full Stack Developer · MERN Specialist · Next.js Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Specialist;Node.js+%26+Express+Backend;MongoDB+%26+Mongoose;Building+for+the+web+%E2%9A%A1)](https://git.io/typing-svg)
+
+---
+
 </div>
 
-<a href="https://github.com/foadroot" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="NextJS" height="50"/></a>     ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hello!+It's+Me+Fuad+👋;Full+Stack;Front+End;Backend;ReactJS;NextJS;Bootstrap;Tailwind+CSS;MaterialUI;NodeJS;ExpressJS;MongoDB;Mongoose;Redux;....🚀;.....;)
+## 🙋 About Me
 
-- 👀 Looking for an opportunity to prove my expertise on Full-stack development.
+- 👀 Looking for an opportunity to prove my expertise in **Full-stack development**
+- 🌱 Currently learning **TypeScript, REST APIs, Mongoose and Next.js**
+- ❓ Ask me about anything related to the **MERN stack** — I'm still learning too 😅
+- ⚡ Fun fact: I started web development for a certificate, and it became my life
 
-- 🌱 I’m currently learning Typescript, RestAPI, Mongoose and NextJS.
+---
 
-- ❓ Ask me about anything related to MERN stack and related technologies I'm also learning though😅
-
-- ⚡ Fun fact: I've started web development for getting a certificate and now it became my life.
-
-<br/>
-<div align="center">
-	
-	
-## My Skill Set
-
-<table>
-  <tr></tr>
-  <tr><td valign="top" width="100%">
+## 🛠️ My Skill Set
 
 ### Frontend
-    
 
-<div align="left">    
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="NextJS" height="50" /></a> 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>      
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" /></a> 
-</div>
-
-</td></tr><tr><td valign="top" width="100%">
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ### Backend
 
-<div align="left"> 
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>    
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" /></a> 
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="MysQl" height="50" /></a>    
-<a href="https://strapi.io/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/strapi-icon-256x253-fr8b6jhy.png" alt="Strapi" height="50" /></a>     
-<a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" alt="Mongoose" height="50" /></a>     
-<a href="https://www.sanity.io/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_96102ac6497377cd53da621075fe828e/sanity.png" alt="Sanity" height="50" /></a> 
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-</td>
-</tr>
- <tr><td>
-   
-   
 ### Languages
 
-<div align="left">    
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>    
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
-<a href="https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf" target="_blank"><img style="margin: 10px" src="https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png" alt="Assembly Language" height="50" /></a>      
-<a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/java.svg" alt="Java" height="50" /></a>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-x86--64-525252?style=for-the-badge&logo=linux&logoColor=white)
+
+### Tools & Deployment
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-00E396?style=for-the-badge&logo=chartdotjs&logoColor=black)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![MapBox](https://img.shields.io/badge/MapBox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-30B980?style=for-the-badge&logo=minutemailer&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+<details open>
+<summary><b>My Portfolio — built with Next.js, MongoDB, Mongoose & more</b></summary>
+
+<div align="center">
+
+[![Portfolio Preview](https://i.ibb.co/5LWTsB8/image.png)](https://next-portfolio-foadtkf.vercel.app/)
+
+**Live:** [next-portfolio-foadtkf.vercel.app](https://next-portfolio-foadtkf.vercel.app/)
+
 </div>
+</details>
 
-</td></tr>
-<tr><td>
-  
-### Tools
+---
 
-<div align="left">    
-<a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>     
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://apexcharts.com/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/5ee5535a3f7e5ba870272261173bf12f9e08a14b0e926291b0a31b751de595e3/68747470733a2f2f617065786368617274732e636f6d2f6d656469612f617065786368617274732d6c6f676f2e706e67" alt="ApexCharts" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://nodemailer.com/" target="_blank"><img style="margin: 10px" src="https://repository-images.githubusercontent.com/1272424/d1995000-0ab7-11ea-8ed3-04a082c36b0d" alt="Nodemailer" height="50" /></a> 
-<a href="https://leafletjs.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" alt="LeafletJS" height="50" /></a> 
-<a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="Socket.io" height="50" /></a> 
-<a href="https://www.emailjs.com/" target="_blank"><img style="margin: 10px" src="https://www.emailjs.com/logo.png" alt="EmailJS" height="50" /></a> 
-	<a href="https://next-intl-docs.vercel.app/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/inext_logo_icon_170002.png" alt="Internationalization" height="50" /></a>
-	<a href="https://www.npmjs.com/package/next-sitemap" target="_blank"><img style="margin: 10px" src="https://www.pngmart.com/files/7/SEO-Background-PNG.png" alt="Sitemap-Nextjs" height="50" /></a>
-<a href="https://docs.mapbox.com/help/glossary/icon/" target="_blank"><img style="margin: 10px" src="https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png" alt="MapBoxGL" height="50" /></a> 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Fuad's GitHub stats](https://github-readme-stats.vercel.app/api?username=foadroot&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=foadroot&langs_count=8&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=foadroot&theme=tokyonight&hide_border=true&border_radius=8&fire=EB0000&ring=EB0000)
+
 </div>
-
-</td></tr>
-
-<tr>
-<td valign="top" >
-
-### Deployment
-
-<div align="left">  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>   
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="Firebase" height="50" /></a>   
-<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="Firebase" height="50" /></a>   
-<a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_477db83f729d63210139ec7cd29c1351/render-render.png" alt="Firebase" height="50" /></a>     
-<a href="https://www.cyclic.sh/" target="_blank"><img style="margin: 10px" src="https://www.cyclic.sh/images/cyclic-logo.png" alt="Cyclic" height="50" /></a> 
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://statamic.dev/img/vercel-logo.svg" alt="Cyclic" height="50" /></a>
-</div>
-
-</td></tr>
-
-<tr>
-<td valign="top" >
-
-### 💻 GitHub Profile Stats
-
-<div align="center">  
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="foadroot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=foadroot&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foadroot&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="foadroot" height="230px"/>
-<img src="https://streak-stats.demolab.com?user=foadroot&theme=tokyonight&hide_border=true&border_radius=0&fire=EB0000&ring=EB0000" alt="foadroot"   style="width: 95%"  />
-
-</p>
-</div>
-
-</td></tr>
-</table>
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="80">
-</div>
-
-##
 
 <details>
-<br/>
-<summary><h3>My New Portfolio built with NextJS, MongoDB, Mongoose and other NPM packages</h3></summary>
+<summary><b>⚡ Contribution Activity Graph</b></summary>
 
-<div align="center">	
-<a href="https://next-portfolio-foadroot.vercel.app/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/5LWTsB8/image.png" alt="NextJS" height="500"/></a>
-</div>	</details>
-
-#
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-	
-[![Fuad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=foadroot&theme=github	)](https://github.com/foadroot/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=foadroot&theme=tokyo-night&bg_color=1a1b27&hide_border=true)
 
 </details>
 
-#
-
-<details><summary> <h3>😎 Git profile Trophies </h3></summary>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foadroot&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-	
-</details>
-
-#
+<details>
+<summary><b>🏆 GitHub Profile Trophies</b></summary>
 
 <div align="center">
-	
-	
-## Snake eating my contribution...😬
-![snake gif](https://github.com/foadroot/foadroot/blob/output/github-contribution-grid-snake.svg)
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=foadroot&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/foadroot" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
-</a>
-<a href="https://linkedin.com/in/fakhrul-islam-fuad-8b8915169" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
-</a>
-<a href="https://stackoverflow.com/users/19026350/fakhrul-islam-fuad" target="_blank">
-<img src=https://img.shields.io/badge/Stack_Overflow-FE7A16?&style=for-the-badge&logo=facebook&logoColor=white alt=stackoverflow />
-</a>  
-<a href="https://wa.me/8801610772131" target="_blank">
-<img src=https://img.shields.io/badge/WhatsApp-25D366?&style=for-the-badge&logo=facebook&logoColor=white alt=whatsapp />
-</a> 
-<a href="https://www.facebook.com/daddytkf" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook />
-</a>
 </div>
-<div align="center">
-	
 
-#	
+</details>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake light](https://github.com/foadroot/foadroot/blob/output/github-contribution-grid-snake.svg)
+![snake dark](https://github.com/foadroot/foadroot/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/foadroot" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/fakhrul-islam-fuad-8b8915169" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://stackoverflow.com/users/19026350/fakhrul-islam-fuad" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/></a>
+<a href="https://wa.me/8801610772131" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://www.facebook.com/daddytkf" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+
+</div>
+
+---
+
+<div align="center">
 
 [![gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
 
-	
-#
-
+<sub>Made with ❤️ by Fuad</sub>
 
 </div>
